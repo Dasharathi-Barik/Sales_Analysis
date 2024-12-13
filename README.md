@@ -18,8 +18,6 @@ The goal of this project is to analysis the sales budget data, extract necessary
 Business Intelligence
 ## Domain 🛒
 Retail & Sales
-## Project Difficulty level 🥇
-Advanced
 ## Programming Language 💻
 Python, DAX and Power Query M
 ## Tools 🛠
